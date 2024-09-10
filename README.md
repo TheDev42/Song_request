@@ -7,7 +7,7 @@ The request is sent to the DJ.
 
 ## Usage - DJ
 Enter ```./dj```.<br>
-I.e. [https://github.andrewisen.se/dj-requests/dj](https://github.andrewisen.se/dj-requests/dj)<br><br>
+I.e. <br><br>
 
 The page updates periodically.
 

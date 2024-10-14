@@ -111,9 +111,7 @@
 						</button>
 					</div>
 					<div class="text-left modal-body">
-						Made with <span style="color: #e25555;">&hearts;</span> in Stockholm, Sweden.<br><br>
 						Built with Boostrap 4, PHP, and a bit custom CSS.<br>
-						You can clone or fork this project on <a href="http://github.com/andrewisen/dj-requests" target="_blank">GitHub</a>.
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
